@@ -11,7 +11,7 @@ with open('hashtag.csv', 'rb') as csvfile:
 	file=csv.reader(csvfile, delimiter=' ')
 	reader = csv.reader(file)
 	row_count=sum(1 for row in file) #Zeilenanzahl
-	col_2=list(zip(*reader))[1]
+	col_2=list(zip(*reader))[1] #alles aus der zweiten Spalte
 
 #for line in file:
 #    columns = line.split(' ')
