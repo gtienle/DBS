@@ -1,0 +1,261 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "MAGA",
+      "x": 1,
+      "y": 1,
+      "size": 12
+    },
+    {
+      "id": "n1",
+      "label": "AmericaFirst",
+      "x": 3,
+      "y": 1,
+      "size": 7
+    },
+    {
+      "id": "n2",
+      "label": "Im With You",
+      "x": 0,
+      "y": 1,
+      "size": 5
+    },
+    {
+      "id": "n3",
+      "lable": "Trump Won",
+      "x": 2,
+      "y": 0,
+      "size": 9
+    },
+    {
+      "id": "n4",
+      "label": "TrumpTrain",
+      "x": 0,
+      "y": 0,
+      "size": 9
+    },
+    {
+      "id": "n5",
+      "label": "Debates2016",
+      "x": 3,
+      "y": 3,
+      "size": 8
+    },
+    {
+      "id": "n6",
+      "label": "DebateNight",
+      "x": 4,
+      "y": 2,
+      "size": 8
+    },
+    {
+      "id": "n7",
+      "lable": "LESM",
+      "x": 4,
+      "y": 0,
+      "size": 3
+    },
+    {
+      "id": "n8",
+      "label": "brexit",
+      "x": 0,
+      "y": 4,
+      "size": 1
+    },
+    {
+      "id": "n9",
+      "label": "TrumpPence16",
+      "x": 5,
+      "y": 4,
+      "size": 9
+    },
+    {
+      "id": "n10",
+      "label": "Always Trump",
+      "x": 4,
+      "y": 5,
+      "size": 9
+    },
+    {
+      "id": "n11",
+      "lable": "Never Hillary",
+      "x": 3,
+      "y": 5,
+      "size": 2
+    },
+    {
+      "id": "n12",
+      "label": "Trump Movement",
+      "x": 5,
+      "y": 7,
+      "size": 9
+    },
+    {
+      "id": "n13",
+      "label": "TBT",
+      "x": 1,
+      "y": 6,
+      "size": 3
+    },
+    {
+      "id": "n14",
+      "label": "Trump2016",
+      "x": 6,
+      "y": 2,
+      "size": 9
+    },
+    {
+      "id": "n15",
+      "lable": "WIPrimary",
+      "x": 6,
+      "y": 4,
+      "size": 4
+    }
+  ],
+  "edges": [
+
+    {
+      "id": "e1",
+      "source": "n0",
+      "target": "n1"
+    },
+    {
+      "id": "e2",
+      "source": "n0",
+      "target": "n2"
+    },
+    {
+      "id": "e3",
+      "source": "n0",
+      "target": "n3"
+    },
+    {
+      "id": "e4",
+      "source": "n0",
+      "target": "n4"
+    },
+    {
+      "id": "e5",
+      "source": "n0",
+      "target": "n5"
+    },
+    {
+      "id": "e6",
+      "source": "n0",
+      "target": "n6"
+    },
+    {
+      "id": "e7",
+      "source": "n0",
+      "target": "n7"
+    },
+    {
+      "id": "e8",
+      "source": "n0",
+      "target": "n8"
+    },
+    {
+      "id": "e9",
+      "source": "n0",
+      "target": "n9"
+    },
+    {
+      "id": "e10",
+      "source": "n0",
+      "target": "n10"
+    },
+    {
+      "id": "e11",
+      "source": "n0",
+      "target": "n11"
+    },
+    {
+      "id": "e12",
+      "source": "n0",
+      "target": "n12"
+    },
+    {
+      "id": "e13",
+      "source": "n0",
+      "target": "n13"
+    },
+    {
+      "id": "e14",
+      "source": "n0",
+      "target": "n14"
+    },
+    {
+      "id": "e15",
+      "source": "n0",
+      "target": "n15"
+    },
+    {
+      "id": "e16",
+      "source": "n14",
+      "target": "n15"
+    },
+    {
+      "id":"e17",
+      "source":"n1",
+      "target":"n2"
+    },
+    {
+      "id": "e18",
+      "source": "n1",
+      "target": "n6"
+    },
+    {
+      "id": "e19",
+      "source": "n1",
+      "target": "n5"
+    },
+    { 
+      "id": "e20",
+      "source": "n1",
+      "target": "n4"
+    },
+    {
+      "id": "e21",
+      "source": "n1",
+      "target": "n9"
+    },
+    {
+      "id": "e22",
+      "source": "n1",
+      "target": "n14"
+    },
+    { 
+      "id": "e23",
+      "source": "n10",
+      "target": "n4"
+    },
+    {
+      "id":"e24",
+      "source":"n10",
+      "target": "n14"
+    },
+    {
+      "id": "e25",
+      "source": "n4",
+      "target": "n14"
+    },
+    {
+      "id": "e26",
+      "source": "n9",
+      "target": "n11"
+    },
+    {
+      "id": "e27",
+      "source": "n9",
+      "target": "n6"
+    },
+    {
+      "id": "e28",
+      "source": "n6",
+      "target": "n2"
+    }
+  ]
+}
+
+
